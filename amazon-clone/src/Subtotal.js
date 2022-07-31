@@ -3,10 +3,10 @@ import "./Subtotal.css";
 import CurrencyFormat from "react-currency-format";
 import { useStateValue } from "./StateProvider";
 import { getBasketTotal } from "./reducer";
-import { useNavigate } from "react-router-dom";
+import { useHistory } from "react-router-dom";
 
 function Subtotal() {
-  const history = useNavigate();
+  const history = useHistory();
   const [{ basket }, dispatch] = useStateValue();
 
   return (
