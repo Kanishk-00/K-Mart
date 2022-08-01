@@ -36,4 +36,6 @@ Deploy the application locally
 Its all set to deploy to firebase
 
 > - firebase deploy
+
+
 Hola its done... Deployed to Firebase !!!
