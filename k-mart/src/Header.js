@@ -20,8 +20,8 @@ function Header() {
       <Link to="/">
         <img
           className="header__logo"
-          src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
-        />
+          src="https://w7.pngwing.com/pngs/900/20/png-transparent-kmart-australia-retail-kmart-boronia-chief-executive-kmart-logo-angle-text-retail.png"
+        />  
       </Link>
 
       <div className="header__search">

@@ -9,10 +9,11 @@
 }
 
 .header__logo {
-  width: 100px;
+  width: 65px;
+  height: 55px;
   object-fit: contain;
   margin: 0 20px;
-  margin-top: 18px;
+  margin-top: 0px;
 }
 
 .header__search {
